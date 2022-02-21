@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="setlistStyle.css"?>
+<band>Silver Arrow Band
+<setlist>
+	<song>
+		<title>Moves Like Jagger</title>
+		<artist>Maroon 5</artist>
+		<year>2010</year>
+		<genre>Contemporary</genre>
+	</song>
+	<song>
+		<title>Can't Stop The Feeling</title>
+		<artist>Justin Timberlake</artist>
+		<year>2016</year>
+		<genre>Contemporary</genre>
+	</song>
+	<song>
+		<title>Perfect</title>
+		<artist>Ed Sheeran</artist>
+		<year>2017</year>
+		<genre>Contemporary</genre>
+	</song>
+	<song>
+		<title>Watermelon Sugar</title>
+		<artist>Harry Styles</artist>
+		<year>2019</year>
+		<genre>Contemporary</genre>
+	</song>
+	<song>
+		<title>I Want You Back</title>
+		<artist>Jackson 5</artist>
+		<year>1969</year>
+		<genre>Mowtown</genre>
+	</song>
+	<song>
+		<title>What's Going On</title>
+		<artist>Marvin Gaye</artist>
+		<year>1971</year>
+		<genre>Mowtown</genre>
+	</song>
+	<song>
+		<title>Any Way You Want It</title>
+		<artist>Journey</artist>
+		<year>1980</year>
+		<genre>Rock</genre>
+	</song>
+	<song>
+		<title>American Girl</title>
+		<artist>Tom Petty</artist>
+		<year>1976</year>
+		<genre>Rock</genre>
+	</song>
+	<song>
+		<title>I Wanna Dance With Somebody</title>
+		<artist>Whitney Houston</artist>
+		<year>1987</year>
+		<genre>Throwback</genre>
+	</song>
+	<song>
+		<title>9 to 5</title>
+		<artist>Dolly Parton</artist>
+		<year>1980</year>
+		<genre>Throwback</genre>
+	</song>
+		<song>
+		<title>Wannabe</title>
+		<artist>Spice Girls</artist>
+		<year>1996</year>
+		<genre>Throwback</genre>
+	</song>
+
+</setlist>
+</band>
