@@ -27,8 +27,8 @@
 		<artist>Harry Styles</artist>
 		<year>2019</year>
 		<genre>
-			<g1>Test 1<g2>
-			<g2>Test 2<g2>
+			<g1>Test 1</g2>
+			<g2>Test 2</g2>
 		
 		</genre>
 	</song>
